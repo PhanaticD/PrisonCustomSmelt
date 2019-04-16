@@ -1,0 +1,6 @@
+name: CustomFurnace
+version: ${project.version}
+main: com.phanaticmc.customfurnace.CustomFurnace
+api-version: 1.13
+authors: [PhanaticD]
+description: smelt special stuff
